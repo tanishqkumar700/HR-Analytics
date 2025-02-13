@@ -53,5 +53,3 @@ Feel free to suggest enhancements or report issues via GitHub.
 This project is open-source and available for modification and use per the repository's license.
 
 ---
-🔍 *For any queries, reach out via GitHub issues!*
-
